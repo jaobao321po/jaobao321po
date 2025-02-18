@@ -1,2 +1,5 @@
 -  Hi, I’m @joão victor fernandes
 -  I’m interested in programation
+-  I'm love games
+-  my favorite hobby is play rocket league
+-  my favorite person is tatsumaki
