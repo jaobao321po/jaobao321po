@@ -3,4 +3,4 @@
 -  I'm love games
 -  my favorite hobby is play rocket league
 -  my favorite character is tatsumaki
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+-  <img height="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
