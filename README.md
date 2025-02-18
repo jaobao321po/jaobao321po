@@ -1,4 +1,4 @@
--  Hi, I’m @joão victor fernandes
+ -  Hi, I’m @joão victor fernandes de lima
 -  I’m interested in programation
 -  I'm love games
 -  my favorite hobby is play rocket league
