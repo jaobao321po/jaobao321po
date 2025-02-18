@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @joão victor fernandes
-- 👀 I’m interested in programation
+-  Hi, I’m @joão victor fernandes
+-  I’m interested in programation
